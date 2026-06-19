@@ -59,11 +59,11 @@ Pivot is designed to help users efficiently manage projects and tasks in one pla
 
 ### Authentication Page
 
-![Login Page](./screenshots/login.png)
+![Login Page](./Screenshots/Login.png)
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Screenshots/Dashboard.png)
 
 ## Technology Stack
 
